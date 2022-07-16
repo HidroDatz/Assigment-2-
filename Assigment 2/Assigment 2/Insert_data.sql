@@ -1,81 +1,81 @@
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00001', N'anv@fpt.edu.vn', N'A', N'Nguy?n V?n', 1, CAST(N'2002-01-01' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00001', N'anv@fpt.edu.vn', N'A', N'Nguyễn Văn', 1, CAST(N'2002-01-01' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00002', N'bnv@fpt.edu.vn', N'B', N'Nguy?n V?n', 1, CAST(N'2002-01-02' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00002', N'bnv@fpt.edu.vn', N'B', N'Nguyễn Văn', 1, CAST(N'2002-01-02' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00003', N'cnv@fpt.edu.vn', N'C', N'Nguy?n V?n', 1, CAST(N'2002-01-13' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00003', N'cnv@fpt.edu.vn', N'C', N'Nguyễn Văn', 1, CAST(N'2002-01-13' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00004', N'dnv@fpt.edu.vn', N'D', N'Nguy?n V?n', 1, CAST(N'2002-01-04' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00004', N'dnv@fpt.edu.vn', N'D', N'Nguyễn Văn', 1, CAST(N'2002-01-04' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00005', N'env@fpt.edu.vn', N'E', N'Nguy?n V?n', 1, CAST(N'2002-01-05' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00005', N'env@fpt.edu.vn', N'E', N'Nguyễn Văn', 1, CAST(N'2002-01-05' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00006', N'fnv@fpt.edu.vn', N'F', N'Nguy?n V?n', 1, CAST(N'2002-01-06' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00006', N'fnv@fpt.edu.vn', N'F', N'Nguyễn Văn', 1, CAST(N'2002-01-06' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00007', N'gnv@fpt.edu.vn', N'G', N'Nguy?n V?n', 1, CAST(N'2002-01-07' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00007', N'gnv@fpt.edu.vn', N'G', N'Nguyễn Văn', 1, CAST(N'2002-01-07' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00008', N'hnv@fpt.edu.vn', N'H', N'Nguy?n V?n', 1, CAST(N'2002-01-08' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00008', N'hnv@fpt.edu.vn', N'H', N'Nguyễn Văn', 1, CAST(N'2002-01-08' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00009', N'inv@fpt.edu.vn', N'I', N'Nguy?n V?n', 1, CAST(N'2002-01-09' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00009', N'inv@fpt.edu.vn', N'I', N'Nguyễn Văn', 1, CAST(N'2002-01-09' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00010', N'jnv@fpt.edu.vn', N'J', N'Nguy?n V?n', 1, CAST(N'2002-01-10' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00010', N'jnv@fpt.edu.vn', N'J', N'Nguyễn Văn', 1, CAST(N'2002-01-10' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00011', N'knv@fpt.edu.vn', N'K', N'Nguy?n V?n', 1, CAST(N'2002-01-11' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00011', N'knv@fpt.edu.vn', N'K', N'Nguyễn Văn', 1, CAST(N'2002-01-11' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00012', N'lnv@fpt.edu.vn', N'L', N'Nguy?n V?n', 1, CAST(N'2002-01-12' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00012', N'lnv@fpt.edu.vn', N'L', N'Nguyễn Văn', 1, CAST(N'2002-01-12' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00013', N'mnv@fpt.edu.vn', N'M', N'Nguy?n V?n', 1, CAST(N'2002-01-13' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00013', N'mnv@fpt.edu.vn', N'M', N'Nguyễn Văn', 1, CAST(N'2002-01-13' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00014', N'nnv@fpt.edu.vn', N'N', N'Nguy?n V?n', 1, CAST(N'2002-01-14' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00014', N'nnv@fpt.edu.vn', N'N', N'Nguyễn Văn', 1, CAST(N'2002-01-14' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00015', N'mnv@fpt.edu.vn', N'O', N'Nguy?n V?n', 1, CAST(N'2002-01-15' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00015', N'mnv@fpt.edu.vn', N'O', N'Nguyễn Văn', 1, CAST(N'2002-01-15' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00016', N'pnv@fpt.edu.vn', N'P', N'Nguy?n V?n', 1, CAST(N'2002-01-16' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00016', N'pnv@fpt.edu.vn', N'P', N'Nguyễn Văn', 1, CAST(N'2002-01-16' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00017', N'qnv@fpt.edu.vn', N'Q', N'Nguy?n V?n', 1, CAST(N'2002-01-17' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00017', N'qnv@fpt.edu.vn', N'Q', N'Nguyễn Văn', 1, CAST(N'2002-01-17' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00018', N'rnv@fpt.edu.vn', N'R', N'Nguy?n V?n', 1, CAST(N'2002-01-18' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00018', N'rnv@fpt.edu.vn', N'R', N'Nguyễn Văn', 1, CAST(N'2002-01-18' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00019', N'snv@fpt.edu.vn', N'S', N'Nguy?n V?n', 1, CAST(N'2002-01-19' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00019', N'snv@fpt.edu.vn', N'S', N'Nguyễn Văn', 1, CAST(N'2002-01-19' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00020', N'tnv@fpt.edu.vn', N'T', N'Nguy?n V?n', 1, CAST(N'2002-01-20' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00020', N'tnv@fpt.edu.vn', N'T', N'Nguyễn Văn', 1, CAST(N'2002-01-20' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00021', N'unv@fpt.edu.vn', N'U', N'Nguy?n V?n', 1, CAST(N'2002-01-21' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00021', N'unv@fpt.edu.vn', N'U', N'Nguyễn Văn', 1, CAST(N'2002-01-21' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00022', N'vnv@fpt.edu.vn', N'V', N'Nguy?n V?n', 1, CAST(N'2002-01-22' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00022', N'vnv@fpt.edu.vn', N'V', N'Nguyễn Văn', 1, CAST(N'2002-01-22' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00023', N'wnv@fpt.edu.vn', N'W', N'Nguy?n V?n', 1, CAST(N'2002-01-23' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00023', N'wnv@fpt.edu.vn', N'W', N'Nguyễn Văn', 1, CAST(N'2002-01-23' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00024', N'xnv@fpt.edu.vn', N'X', N'Nguy?n V?n', 1, CAST(N'2002-01-24' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00024', N'xnv@fpt.edu.vn', N'X', N'Nguyễn Văn', 1, CAST(N'2002-01-24' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00025', N'ynv@fpt.edu.vn', N'Y', N'Nguy?n V?n', 1, CAST(N'2002-01-25' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00025', N'ynv@fpt.edu.vn', N'Y', N'Nguyễn Văn', 1, CAST(N'2002-01-25' AS Date))
 
-INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00026', N'znv@fpt.edu.vn', N'Z', N'Nguy?n V?n', 1, CAST(N'2002-01-26' AS Date))
+INSERT [dbo].[Students] ([StudentID], [Email], [First_Name], [Last_Name], [Gender], [DoB]) VALUES (N'HE00026', N'znv@fpt.edu.vn', N'Z', N'Nguyễn Văn', 1, CAST(N'2002-01-26' AS Date))
 
 
 
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00027', 'anv@fpt.edu.vn', 'A', N'Nguy?n Th?', 0, CAST('02-01-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00028', 'bnv@fpt.edu.vn', 'B', N'Nguy?n Th?', 0, CAST('02-02-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00029', 'cnv@fpt.edu.vn', 'C', N'Nguy?n Th?', 0, CAST('02-03-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00030', 'dnv@fpt.edu.vn', 'D', N'Nguy?n Th?', 0, CAST('02-04-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00031', 'env@fpt.edu.vn', 'E', N'Nguy?n Th?', 0, CAST('02-05-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00032', 'fnv@fpt.edu.vn', 'F', N'Nguy?n Th?', 0, CAST('02-06-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00033', 'gnv@fpt.edu.vn', 'G', N'Nguy?n Th?', 0, CAST('02-07-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00034', 'hnv@fpt.edu.vn', 'H', N'Nguy?n Th?', 0, CAST('02-08-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00035', 'inv@fpt.edu.vn', 'I', N'Nguy?n Th?', 0, CAST('02-09-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00036', 'knv@fpt.edu.vn', 'K', N'Nguy?n Th?', 0, CAST('02-11-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00037', 'lnv@fpt.edu.vn', 'L', N'Nguy?n Th?', 0, CAST('02-12-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00038', 'mnv@fpt.edu.vn', 'M', N'Nguy?n Th?', 0, CAST('02-13-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00039', 'nnv@fpt.edu.vn', 'N', N'Nguy?n Th?', 0, CAST('02-14-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00040', 'onv@fpt.edu.vn', 'O', N'Nguy?n Th?', 0, CAST('02-15-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00041', 'pnv@fpt.edu.vn', 'P', N'Nguy?n Th?', 0, CAST('02-16-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00042', 'qnv@fpt.edu.vn', 'Q', N'Nguy?n Th?', 0, CAST('02-17-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00043', 'rnv@fpt.edu.vn', 'R', N'Nguy?n Th?', 0, CAST('02-18-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00044', 'snv@fpt.edu.vn', 'S', N'Nguy?n Th?', 0, CAST('02-19-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00045', 'tnv@fpt.edu.vn', 'T', N'Nguy?n Th?', 0, CAST('02-20-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00046', 'unv@fpt.edu.vn', 'U', N'Nguy?n Th?', 0, CAST('02-21-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00047', 'vnv@fpt.edu.vn', 'V', N'Nguy?n Th?', 0, CAST('02-22-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00048', 'wnv@fpt.edu.vn', 'W', N'Nguy?n Th?', 0, CAST('02-23-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00049', 'xnv@fpt.edu.vn', 'X', N'Nguy?n Th?', 0, CAST('02-24-2002' AS DATE));
-INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00050', 'ynv@fpt.edu.vn', 'Y', N'Nguy?n Th?', 0, CAST('02-25-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00027', 'anv@fpt.edu.vn', 'A', N'Nguyễn Thị', 0, CAST('02-01-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00028', 'bnv@fpt.edu.vn', 'B', N'Nguyễn Thị', 0, CAST('02-02-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00029', 'cnv@fpt.edu.vn', 'C', N'Nguyễn Thị', 0, CAST('02-03-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00030', 'dnv@fpt.edu.vn', 'D', N'Nguyễn Thị', 0, CAST('02-04-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00031', 'env@fpt.edu.vn', 'E', N'Nguyễn Thị', 0, CAST('02-05-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00032', 'fnv@fpt.edu.vn', 'F', N'Nguyễn Thị', 0, CAST('02-06-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00033', 'gnv@fpt.edu.vn', 'G', N'Nguyễn Thị', 0, CAST('02-07-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00034', 'hnv@fpt.edu.vn', 'H', N'Nguyễn Thị', 0, CAST('02-08-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00035', 'inv@fpt.edu.vn', 'I', N'Nguyễn Thị', 0, CAST('02-09-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00036', 'knv@fpt.edu.vn', 'K', N'Nguyễn Thị', 0, CAST('02-11-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00037', 'lnv@fpt.edu.vn', 'L', N'Nguyễn Thị', 0, CAST('02-12-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00038', 'mnv@fpt.edu.vn', 'M', N'Nguyễn Thị', 0, CAST('02-13-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00039', 'nnv@fpt.edu.vn', 'N', N'Nguyễn Thị', 0, CAST('02-14-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00040', 'onv@fpt.edu.vn', 'O', N'Nguyễn Thị', 0, CAST('02-15-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00041', 'pnv@fpt.edu.vn', 'P', N'Nguyễn Thị', 0, CAST('02-16-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00042', 'qnv@fpt.edu.vn', 'Q', N'Nguyễn Thị', 0, CAST('02-17-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00043', 'rnv@fpt.edu.vn', 'R', N'Nguyễn Thị', 0, CAST('02-18-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00044', 'snv@fpt.edu.vn', 'S', N'Nguyễn Thị', 0, CAST('02-19-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00045', 'tnv@fpt.edu.vn', 'T', N'Nguyễn Thị', 0, CAST('02-20-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00046', 'unv@fpt.edu.vn', 'U', N'Nguyễn Thị', 0, CAST('02-21-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00047', 'vnv@fpt.edu.vn', 'V', N'Nguyễn Thị', 0, CAST('02-22-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00048', 'wnv@fpt.edu.vn', 'W', N'Nguyễn Thị', 0, CAST('02-23-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00049', 'xnv@fpt.edu.vn', 'X', N'Nguyễn Thị', 0, CAST('02-24-2002' AS DATE));
+INSERT Students(StudentID, Email, [First_Name], [Last_Name], Gender, [DoB]) VALUES ('HE00050', 'ynv@fpt.edu.vn', 'Y', N'Nguyễn Thị', 0, CAST('02-25-2002' AS DATE));
 
 
 SELECT * FROM Students
@@ -163,17 +163,17 @@ SELECT * FROM [JOIN_Groups_Students]
 
 SELECT * FROM Courses
 
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVA', 'gva@fe.edu.vn', 'A', N'Gi?ng Vi�n', 1, CAST('01-01-1985' AS date), NULL);
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVB', 'gvb@fe.edu.vn', 'B', N'Gi?ng Vi�n', 0, CAST('01-02-1985' AS date), 'GVA');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVC', 'gvc@fe.edu.vn', 'C', N'Gi?ng Vi�n', 1, CAST('01-03-1985' AS date), 'GVA');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVD', 'gvd@fe.edu.vn', 'D', N'Gi?ng Vi�n', 0, CAST('01-04-1985' AS date), 'GVA');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVE', 'gve@fe.edu.vn', 'E', N'Gi?ng Vi�n', 1, CAST('01-05-1985' AS date), 'GVA');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVF', 'gvf@fe.edu.vn', 'F', N'Gi?ng Vi�n', 0, CAST('01-06-1985' AS date), NULL);
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVG', 'gvg@fe.edu.vn', 'G', N'Gi?ng Vi�n', 1, CAST('01-07-1985' AS date), 'GVF');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVH', 'gvh@fe.edu.vn', 'H', N'Gi?ng Vi�n', 0, CAST('01-08-1985' AS date), NULL);
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVI', 'gvi@fe.edu.vn', 'I', N'Gi?ng Vi�n', 1, CAST('01-09-1985' AS date), 'GVH');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVJ', 'gvj@fe.edu.vn', 'J', N'Gi?ng Vi�n', 0, CAST('01-10-1985' AS date), 'GVH');
-INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVK', 'gvk@fe.edu.vn', 'K', N'Gi?ng Vi�n', 1, CAST('01-11-1985' AS date), 'GVH');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVA', 'gva@fe.edu.vn', 'A', N'Giảng Viên', 1, CAST('01-01-1985' AS date), NULL);
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVB', 'gvb@fe.edu.vn', 'B', N'Giảng Viên', 0, CAST('01-02-1985' AS date), 'GVA');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVC', 'gvc@fe.edu.vn', 'C', N'Giảng Viên', 1, CAST('01-03-1985' AS date), 'GVA');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVD', 'gvd@fe.edu.vn', 'D', N'Giảng Viên', 0, CAST('01-04-1985' AS date), 'GVA');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVE', 'gve@fe.edu.vn', 'E', N'Giảng Viên', 1, CAST('01-05-1985' AS date), 'GVA');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVF', 'gvf@fe.edu.vn', 'F', N'Giảng Viên', 0, CAST('01-06-1985' AS date), NULL);
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVG', 'gvg@fe.edu.vn', 'G', N'Giảng Viên', 1, CAST('01-07-1985' AS date), 'GVF');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVH', 'gvh@fe.edu.vn', 'H', N'Giảng Viên', 0, CAST('01-08-1985' AS date), NULL);
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVI', 'gvi@fe.edu.vn', 'I', N'Giảng Viên', 1, CAST('01-09-1985' AS date), 'GVH');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVJ', 'gvj@fe.edu.vn', 'J', N'Giảng Viên', 0, CAST('01-10-1985' AS date), 'GVH');
+INSERT Lectures(LecID, Email, [First_Name], [Last_Name], Gender, [DoB], Report) VALUES ('GVK', 'gvk@fe.edu.vn', 'K', N'Giảng Viên', 1, CAST('01-11-1985' AS date), 'GVH');
 
 
 SELECT * FROM Lectures
