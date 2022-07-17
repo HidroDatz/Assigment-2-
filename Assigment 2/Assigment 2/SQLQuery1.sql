@@ -1,6 +1,6 @@
 use Student_mark
 --simple query
-SELECT * FROM Students WHERE [Last_Name] = N'Nguy?n V?n' AND [First_Name] =		'A'
+SELECT * FROM Students WHERE [Last_Name] = N'Nguyên Vănn' AND [First_Name] =		'A'
 -- procedue dem sinh vien
 CREATE PROCEDURE Count_Student
 	@GR VARCHAR(50),
